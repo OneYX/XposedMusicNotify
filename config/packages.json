@@ -58,6 +58,14 @@
          {
             "versionName": "9.3.1.0",
             "versionCode": "9310"
+         },
+
+         {
+
+            "versionName": "10.5.1.0",
+
+            "versionCode": "10510"
+
          }
     ]
     },
